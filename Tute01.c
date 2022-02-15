@@ -11,7 +11,7 @@ int main() {
    printf("Enter mark 1 : ");
    scanf("%f",&mark1);
    
-   printf("Enter mark 1 : ");
+   printf("Enter mark 2 : ");
    scanf("%f",&mark2);
    
    avg = (mark1 + mark2) / 2;
